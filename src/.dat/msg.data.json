@@ -1,0 +1,301 @@
+[
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "C050B9994C32E24942C3B656B0C5B14E"
+    },
+    "message": {
+      "conversation": "/help"
+    },
+    "messageTimestamp": "1627610488",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "71434C7C3A27DACC7E8BEB2523F29138"
+    },
+    "message": {
+      "conversation": "/tahta"
+    },
+    "messageTimestamp": "1627610504",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "6FD107EDA3380C39A14F408B87E9EBB9"
+    },
+    "message": {
+      "conversation": "/tahta oppai"
+    },
+    "messageTimestamp": "1627610518",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "2BBB88F1E59248F38FCFDA271E14D4A2"
+    },
+    "message": {
+      "conversation": "/self"
+    },
+    "messageTimestamp": "1627610531",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "EAAD1BA37BFF0FA36AA8722B1C3875D0"
+    },
+    "message": {
+      "conversation": "/creator"
+    },
+    "messageTimestamp": "1627610561",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "2B1E046CA62C33A4457278930565C7FB"
+    },
+    "message": {
+      "conversation": "/afk"
+    },
+    "messageTimestamp": "1627610663",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "8A77E5EF99C222FB8699382A7AF2D51C"
+    },
+    "message": {
+      "conversation": "/welcome"
+    },
+    "messageTimestamp": "1627610686",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "7DD1E110831937852052DFE962278F11"
+    },
+    "message": {
+      "conversation": "/welcome 1"
+    },
+    "messageTimestamp": "1627610692",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "2158AB06AA0FC27BD4AC09818A9E5521"
+    },
+    "message": {
+      "conversation": "/public"
+    },
+    "messageTimestamp": "1627610802",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "2F7CCB30098BB726E62FD8B6ED4A7AC5"
+    },
+    "message": {
+      "conversation": "/buggcx"
+    },
+    "messageTimestamp": "1627610838",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "02D30F8FA11DB65FD24AE2C3DD31D30B"
+    },
+    "message": {
+      "conversation": "/help"
+    },
+    "messageTimestamp": "1627611012",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "519F9A8DDC07EF102D719C17CD5AB48B"
+    },
+    "message": {
+      "conversation": "/help"
+    },
+    "messageTimestamp": "1627611298",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "4F66AB9F335537D65277A86A1B8C5C81"
+    },
+    "message": {
+      "conversation": "/creator"
+    },
+    "messageTimestamp": "1627611325",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "BBB3C04A492A04CB05C91AD1E5E149F2"
+    },
+    "message": {
+      "conversation": "/help"
+    },
+    "messageTimestamp": "1627611527",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "F2CEA2B2DB763C536438B21E18E68DBD"
+    },
+    "message": {
+      "conversation": "/creator"
+    },
+    "messageTimestamp": "1627611894",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "48459069123@s.whatsapp.net",
+      "fromMe": false,
+      "id": "A01D41BED0916C5E0A43CAEA544D896A"
+    },
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/d/f/AhLERHihGMqSmCNhDgsb9s1Z-hWhzYmi9UX26AYZzrLp.enc",
+        "mimetype": "image/jpeg",
+        "caption": "#stiker",
+        "fileSha256": "nfWl0Mx2uKNvoXAlNw8Oi+lKEF5IhpWJKii8Pc7M2Uw=",
+        "fileLength": "407894",
+        "height": 1520,
+        "width": 720,
+        "mediaKey": "wnY0SGLGBdXrQgE4/lpPbPJFzDLL3ZpCLb0BJze6nwU=",
+        "fileEncSha256": "UFkunORrsBdudLviRVmhcjI+yH9tdZ/Lfp8YFrTtGHI=",
+        "directPath": "/v/t62.7118-24/32380523_512475560077666_4144897984331218765_n.enc?ccb=11-4&oh=aed8467f22709a1ad964c077d504e709&oe=61271A1D",
+        "mediaKeyTimestamp": "1627612155",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIgMBIgACEQEDEQH/xAAwAAACAwEBAAAAAAAAAAAAAAAABAIDBQEGAQADAQEAAAAAAAAAAAAAAAAAAQIEA//aAAwDAQACEAMQAAAAySqTXTl7FigB4IhF/P0IM89EZrxK2ltnOLajCrRAWjNrtWrNJ/N0knRkOkAFJcApgM//xAAnEAACAgIBAQcFAAAAAAAAAAABAgASAxEEUgUUFSExMkEQE0JRU//aAAgBAQABPwAKld2EKJ1SiW1aVABmlgQaEOMREVnAnN4/d66fe/oUoa+sopEG0YEeoiF+ZYZPgeUbiuCRE+POFiDCdzs/3tDjSMpQkQtDqcN6O0J2d1MzbOZ9RiQYW3OMosbTT/DCDKyFoXUsGlgW3qYMC5UuWgxuBoCZUVrNYA/qUMqZxr/bqp1F9onhOPrM8Iw9ZnhGHqMTs7Gn5GdzP9DP/8QAHhEAAAQHAAAAAAAAAAAAAAAAAAEQEQIDEhQgMlH/2gAIAQIBAT8AwmaGLg1og4rmrj//xAAeEQACAQQDAQAAAAAAAAAAAAAAAREQITFRAhMycf/aAAgBAwEBPwBwQRRZIpw9ItpEstk7PlGk1DIWj//Z"
+      }
+    },
+    "messageTimestamp": "1627612157",
+    "status": "ERROR",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "48459069123@s.whatsapp.net",
+      "fromMe": false,
+      "id": "1D0FB46B207D3C2CF4B9B36E13C8536B"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "/stiker",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "A01D41BED0916C5E0A43CAEA544D896A",
+          "participant": "48459069123@s.whatsapp.net",
+          "quotedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/d/f/AhLERHihGMqSmCNhDgsb9s1Z-hWhzYmi9UX26AYZzrLp.enc",
+              "mimetype": "image/jpeg",
+              "caption": "#stiker",
+              "fileSha256": "nfWl0Mx2uKNvoXAlNw8Oi+lKEF5IhpWJKii8Pc7M2Uw=",
+              "fileLength": "407894",
+              "height": 1520,
+              "width": 720,
+              "mediaKey": "wnY0SGLGBdXrQgE4/lpPbPJFzDLL3ZpCLb0BJze6nwU=",
+              "fileEncSha256": "UFkunORrsBdudLviRVmhcjI+yH9tdZ/Lfp8YFrTtGHI=",
+              "directPath": "/v/t62.7118-24/32380523_512475560077666_4144897984331218765_n.enc?ccb=11-4&oh=aed8467f22709a1ad964c077d504e709&oe=61271A1D",
+              "mediaKeyTimestamp": "1627612155",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIgMBIgACEQEDEQH/xAAwAAACAwEBAAAAAAAAAAAAAAAABAIDBQEGAQADAQEAAAAAAAAAAAAAAAAAAQIEA//aAAwDAQACEAMQAAAAySqTXTl7FigB4IhF/P0IM89EZrxK2ltnOLajCrRAWjNrtWrNJ/N0knRkOkAFJcApgM//xAAnEAACAgIBAQcFAAAAAAAAAAABAgASAxEEUgUUFSExMkEQE0JRU//aAAgBAQABPwAKld2EKJ1SiW1aVABmlgQaEOMREVnAnN4/d66fe/oUoa+sopEG0YEeoiF+ZYZPgeUbiuCRE+POFiDCdzs/3tDjSMpQkQtDqcN6O0J2d1MzbOZ9RiQYW3OMosbTT/DCDKyFoXUsGlgW3qYMC5UuWgxuBoCZUVrNYA/qUMqZxr/bqp1F9onhOPrM8Iw9ZnhGHqMTs7Gn5GdzP9DP/8QAHhEAAAQHAAAAAAAAAAAAAAAAAAEQEQIDEhQgMlH/2gAIAQIBAT8AwmaGLg1og4rmrj//xAAeEQACAQQDAQAAAAAAAAAAAAAAAREQITFRAhMycf/aAAgBAwEBPwBwQRRZIpw9ItpEstk7PlGk1DIWj//Z"
+            }
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627612175",
+    "status": "ERROR",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "48459069123@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6B4482BE142CC9A2210F50E31CC140E9"
+    },
+    "message": {
+      "conversation": "/buggc"
+    },
+    "messageTimestamp": "1627612189",
+    "status": "ERROR",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "62895612153565-1626116275@g.us",
+      "fromMe": false,
+      "id": "5C7A9EFE8043B2ED2E28C577970E4E9C"
+    },
+    "message": {
+      "conversation": "/help"
+    },
+    "messageTimestamp": "1627612383",
+    "status": "ERROR",
+    "participant": "48459069123@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  }
+]
