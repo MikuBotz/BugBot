@@ -16,8 +16,8 @@
 #### Ingin Donasi?
 > [`Click here`](https://nakano-miku.blogspot.com/2021/07/donasi-mikubot.html)
 
-##### Eror?
-> Jika Eror kamu bisa chat di nomor ini [`click here`](https://wa.me/48459069123)
+##### Eror/rusak?
+> Jika Eror/rusak kamu bisa chat di nomor ini [`click here`](https://wa.me/48459069123)
 
 ###### Thanks To
 [`MIKUBOT`](https://github.com/MikuBotz)
