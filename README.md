@@ -7,9 +7,7 @@
 > pkg upgrade -y
 > pkg install git -y
 > pkg install nodejs -y
-> pkg install unzip
 > git clone https://github.com/MikuBotz/BugBot
-> unzip node_modules
 > cd BugBot
 > npm install
 > npm start
@@ -17,4 +15,9 @@
 
 #### Ingin Donasi?
 > [`Click here`](https://nakano-miku.blogspot.com/2021/07/donasi-mikubot.html)
+
+ 
+Thanks To
+
+[`MIKUBOT`](https://github.com/MikuBotz)
 
