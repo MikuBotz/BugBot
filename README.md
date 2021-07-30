@@ -16,6 +16,5 @@
 ```
 
 #### Ingin Donasi?
-```bash
 > [`Click here`](https://nakano-miku.blogspot.com/2021/07/donasi-mikubot.html)
 
